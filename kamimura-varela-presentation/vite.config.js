@@ -1,2 +1,0 @@
-   git clone https://github.com/yourusername/CV-Presentation-Kamimura-Varela-Lautaro-2025.git
-   cd CV-Presentation-Kamimura-Varela-Lautaro-2025
